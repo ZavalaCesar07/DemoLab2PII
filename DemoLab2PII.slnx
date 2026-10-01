@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Empleado.Entity/Empleado.Entity.csproj" />
+  <Project Path="Empleado.View/Empleado.View.csproj" />
+</Solution>
